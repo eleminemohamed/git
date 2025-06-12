@@ -1,0 +1,3 @@
+Acheter du lait,basse
+Faire le ménage,moyenne
+Réviser pour l'examen,haute
